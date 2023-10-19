@@ -1,7 +1,6 @@
 # Quadratic-Framework
  A Unified and Modular Quadratic Funding and Voting Implementation 
 ---
-# Quadratic Voting & Funding Framework
 
 This framework provides an efficient, secure, and user-friendly way to implement quadratic voting and funding on various blockchains. By utilizing this, developers can empower communities to make decisions in a more democratic manner and fund projects that prioritize community interests.
 
@@ -78,5 +77,3 @@ This project is licensed under an open-source license - see the [LICENSE](LICENS
 We believe in a welcoming and inclusive environment for all contributors. Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our community standards and participation guidelines.
 
 ---
-
-The framework now has a general structure, and the Algorand-specific details are housed under the "Blockchain Implementations" section. This format can easily accommodate additional blockchains in the future.
